@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 48px;
+    margin: 20px;
+    text-align: center;
+}
+
+.counter {
+    border: 2px solid #000000;
+    border-radius: 10px;
+    align-items: center;
+    padding: 20px;
+}
+
+button {
+    background-color: #0b046a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+}
+
+
+
+
+
+
